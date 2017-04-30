@@ -5,6 +5,7 @@ I'm currently using [dracula](https://draculatheme.com/vim/) theme for vim
 clone this under ~/.vim directory
 ```
 cd
+cd .vim
 git clone https://github.com/chaymaeBZ/dotfiles.git
 ```
 # macVim support
