@@ -1,3 +1,7 @@
+# Moment of silence
+I dedicate this section for us just to take a moment of silence for the poor souls who consider vim as a bad 
+version of Windows notepad.
+Ok, now back to work ...
 # theme
 I'm currently using [dracula](https://draculatheme.com/vim/) theme for vim
 ![quote](quote.png)
