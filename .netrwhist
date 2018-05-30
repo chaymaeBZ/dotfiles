@@ -1,2 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =0
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/bazzaouichaymae/Documents/monmecanicien1/app/models'
+let g:netrw_dirhist_2='/Users/bazzaouichaymae/Documents/monmecanicien1/app'
+let g:netrw_dirhist_3='/Users/bazzaouichaymae/Documents/monmecanicien1'
+let g:netrw_dirhist_4='/Users/bazzaouichaymae/Documents/monmecanicien1/app'
+let g:netrw_dirhist_5='/Users/bazzaouichaymae/Documents/monmecanicien1/app/controllers'
+let g:netrw_dirhist_6='/Users/bazzaouichaymae/Documents/monmecanicien1'
+let g:netrw_dirhist_7='/Users/bazzaouichaymae/Documents/monmecanicien1/app'
+let g:netrw_dirhist_8='/Users/bazzaouichaymae/Documents/monmecanicien1/app/controllers'
